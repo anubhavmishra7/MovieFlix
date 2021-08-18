@@ -45,6 +45,7 @@ class Description extends StatelessWidget {
               padding: EdgeInsets.all(10),
               // ignore: unnecessary_null_comparison
               child: Text(
+                // ignore: unnecessary_null_comparison
                 name != null ? name : 'Not Loaded',
                 style: TextStyle(color: Colors.white),
               )),

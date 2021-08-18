@@ -1,7 +1,7 @@
 //import 'package:eva_icons_flutter/eva_icons_flutter.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flix/screens/homescreen.dart';
-import 'package:flix/widgets/homewidget.dart';
+//import 'package:flix/widgets/homewidget.dart';
 import 'package:flutter/material.dart';
 import 'package:google_sign_in/google_sign_in.dart';
 
