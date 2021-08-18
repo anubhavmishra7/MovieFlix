@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "192552238661",
+    "project_id": "flix-3c27f",
+    "storage_bucket": "flix-3c27f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:192552238661:android:3f09a988d0fa6921842d2c",
+        "android_client_info": {
+          "package_name": "com.example.flix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "192552238661-a7hnscp12nbvlpaousotsdse4rp7rj9c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flix",
+            "certificate_hash": "e6dac46b4b470d6ec10bd7dc74fa1f605f10572d"
+          }
+        },
+        {
+          "client_id": "192552238661-9ttorjl2224ljnissnrqionuuauielhr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmBs1rPJvvPaCWm2edO03cWkEWbhoDrO4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "192552238661-9ttorjl2224ljnissnrqionuuauielhr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
